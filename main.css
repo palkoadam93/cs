@@ -28,3 +28,8 @@ button a {
     color: white;
     padding: 1rem;
 }
+
+#jel {
+    font-weight: bold;
+    color: red;
+}
